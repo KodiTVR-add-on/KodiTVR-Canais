@@ -1,2 +1,3 @@
 # KodiTVR-Canais
- 
+ filmes
+ séries
