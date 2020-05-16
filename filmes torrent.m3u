@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="- - - - PORTUGAL - - - -" tvg-logo="http://media.c-x-c.media/picons/PT/portugal.png" group-title="PORTUGAL",- - - - PORTUGAL - - - -
+#EXTINF:-1 tvg-id="" tvg-name="- - - - KodiTVR - - - -" tvg-logo="https://ia801406.us.archive.org/10/items/entreaqui.koditvr/favorite.png"  group-title="KodiTVR",- - - - KodiTVR - - - -
+#EXTINF:-1 tvg-id="" tvg-name="- - - - KodiTVR - - - -" tvg-logo="https://ia801406.us.archive.org/10/items/entreaqui.koditvr/tv.koditvr.png.png" group-title="",- - - - KodiTVR-FILMES-M3U - - - -
+#EXTINF:-1 tvg-id="" tvg-name="- - - - KodiTVR - - - -" tvg-logo="https://ia801406.us.archive.org/10/items/entreaqui.koditvr/koditvr.fita.png" group-title="FILMES TORRENT M3U",[COLOR red][B]- - - - FILMES TORRENT M3U - - - -[/B][/COLOR]
+#EXTINF:-1 channelId="--CATEGORIA--" tv-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3v06xJfco8hMDaMYOdUaxquh7hx.jpg" aspect-ration="16:9", IP MAN 1-2-3
+magnet:?xt=urn:btih:298125dbe0bb906904555bb672e0ab16ad5d7429&dn=IP+MAN+1%2C2%2C3%2CFinal+Fight%2CThe+Legend+is+Born%2CGrandmaster%3A+720p+HC&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969
+#EXTINF:-1 channelId="--CATEGORIA--" tv-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfiUyixo7Pnn2VC31lrifK8HMB5.jpg" aspect-ration="16:9", IP MAN 4
+magnet:?xt=urn:btih:99995788f7810f02a29e79c558410674e107b54e&dn=Ip.Man.4.The.Finale.2019.1080p.BluRay.x264.AAC5.1&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969
+
