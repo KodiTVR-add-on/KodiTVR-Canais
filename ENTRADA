@@ -131,10 +131,36 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
- 
+<channel>
+<name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Filmes-Faroeste [/B][/COLOR]</name>
+<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/tv.koditvr.png.png</thumbnail>
+<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/List.KodiTVR.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/filmes%20torrent.m3u</externallink>
+</channel> 
  
  
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- 
- 
+
+<channel>
+<name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Filmes-Vários(2018) [/B][/COLOR]</name>
+<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/tv.koditvr.png.png</thumbnail>
+<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/List.KodiTVR.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/filmes%20torrent.m3u</externallink>
+</channel> 
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Filmes-Infantil [/B][/COLOR]</name>
+<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/tv.koditvr.png.png</thumbnail>
+<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/List.KodiTVR.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/filmes%20torrent.m3u</externallink>
+</channel> 
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Copyright © 2020 - KodiTVR
