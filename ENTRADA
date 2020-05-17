@@ -101,8 +101,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Filmes-Torrent-M3U [/B][/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/tv.koditvr.png.png</thumbnail>
-<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/List.KodiTVR.jpg</fanart>
+<thumbnail>https://ia801502.us.archive.org/33/items/Cinema.movies/filmes.fanart.jpg</thumbnail>
+<fanart>https://ia801502.us.archive.org/33/items/Cinema.movies/cine.filmes.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/filmes%20torrent.m3u</externallink>
 </channel>
@@ -126,8 +126,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Filmes-Faroeste [/B][/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/tv.koditvr.png.png</thumbnail>
-<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/List.KodiTVR.jpg</fanart>
+<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/koditvr-faroeste.png</thumbnail>
+<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/koditvr.faroeste.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/Filmes%20faroeste%204</externallink>
 </channel> 
@@ -137,8 +137,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Filmes-Vários(2018) [/B][/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/tv.koditvr.png.png</thumbnail>
-<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/List.KodiTVR.jpg</fanart>
+<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/koditvr.fita.png</thumbnail>
+<fanart>https://ia801502.us.archive.org/33/items/Cinema.movies/cinema.fanart.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/filmes%202018</externallink>
 </channel> 
@@ -148,8 +148,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Filmes-Vários(2017) [/B][/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/tv.koditvr.png.png</thumbnail>
-<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/List.KodiTVR.jpg</fanart>
+<thumbnail>https://ia801502.us.archive.org/33/items/Cinema.movies/fita.cine.jpg</thumbnail>
+<fanart>https://archive.org/download/Cinema.movies/Cinema.movies.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/Filmes%202017</externallink>
 </channel> 
@@ -159,8 +159,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Filmes-Infantil [/B][/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/tv.koditvr.png.png</thumbnail>
-<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/List.KodiTVR.jpg</fanart>
+<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/marvel.fanart.jpg</thumbnail>
+<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/lan%C3%A7amentos-1.2.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/Filmes%20kids</externallink>
 </channel> 
