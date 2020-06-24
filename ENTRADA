@@ -75,6 +75,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
  
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]AceStream [/B][/COLOR]</name>
+<thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
+<fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-3.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/koditvr%20sport.ts</externallink>  
+</channel>
+ 
+ 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Rádio [/B][/COLOR]</name>
