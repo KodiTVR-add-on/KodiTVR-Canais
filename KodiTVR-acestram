@@ -21,7 +21,7 @@
 
 <item>
 <title>KodiTVR-(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=62a2d20679911f8e7739354761bc18f14a46a64f</link>
+<link>http://127.0.0.1:8902/ace/getstream?id=62a2d20679911f8e7739354761bc18f14a46a64f</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-2.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-4.jpg</fanart>
 </item>
