@@ -195,3 +195,36 @@
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-3.jpg</fanart>
 </item>
+
+<item>
+<title>Plexus</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://<plugin>
+<title>Plexus</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://78637dab85e7948057165ad0c80b3db475dd9c3d(Acestream-Stream Name goes here)</sublink>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-1.jpg</thumbnail>
+<fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-4.jpg</fanart>
+</plugin>(Acestream-Stream Name goes here)</sublink>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-2.jpg</thumbnail>
+<fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-3.jpg</fanart>
+</item>
+
+
+<plugin>
+<title>Plexus</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://<plugin>
+<title>Plexus</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://78637dab85e7948057165ad0c80b3db475dd9c3d(Acestream-Stream Name goes here)</sublink>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-1.jpg</thumbnail>
+<fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-3.jpg</fanart>
+</plugin>(Acestream-Stream Name goes here)</sublink>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-2.jpg</thumbnail>
+<fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-4.jpg</fanart>
+</plugin>
