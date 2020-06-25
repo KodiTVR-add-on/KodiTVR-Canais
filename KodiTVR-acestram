@@ -35,7 +35,7 @@
 
 <item>
 <title>KodiTVR-(Acestream)</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://62a2d20679911f8e7739354761bc18f14a46a64f(Acestream-Stream Name goes here)</link>
+<link>plugin://program.plexus/?mode=1&url=acestream://62a2d20679911f8e7739354761bc18f14a46a64f&amp;mode=1&amp;name=AceStream</link>
 <thumbnail>https://ia601504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-5.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
