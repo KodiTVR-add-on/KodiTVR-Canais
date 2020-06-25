@@ -1,41 +1,41 @@
 <item>
 <title>[COLOR FFff8000]KodiTVR-LISTA-ACESTREAM[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://8ca1bd6725fb4de7db9f289b2f7e4f4fb9e11f01&mode=1&name=AceStream</link>
+<link>plugin://program.plexus/?url=acestream://ebace2db83260b4d6097f0a52e86b2aee3c3bba9&mode=1&name=AceStream</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-1.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-4.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR blue]KodiTVR-(Acestream-engine)[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://8ca1bd6725fb4de7db9f289b2f7e4f4fb9e11f01&amp;mode=1&amp;name=AceStream</link>
+<link>plugin://program.plexus/?url=acestream://ebace2db83260b4d6097f0a52e86b2aee3c3bba9&amp;mode=1&amp;name=AceStream</link>
 <thumbnail>https://ia601504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-3.jpg</fanart>
 </item>
 
 <item>
 <title>KodiTVR-(Acestream)</title>
-<link>plugin://program.plexus/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&amp;mode=1&amp;name=AceStream</link>
+<link>plugin://program.plexus/?url=acestream://ebace2db83260b4d6097f0a52e86b2aee3c3bba9&amp;mode=1&amp;name=AceStream</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-2.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-4.jpg</fanart>
 </item>
 
 <item>
 <title>KodiTVR-(Acestream)</title>
-<link>http://127.0.0.1:8902/ace/getstream?id=8ca1bd6725fb4de7db9f289b2f7e4f4fb9e11f01</link>
+<link>http://127.0.0.1:8902/ace/getstream?id=ebace2db83260b4d6097f0a52e86b2aee3c3bba9</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-2.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-4.jpg</fanart>
 </item>
 
 <item>
 <title>KodiTVR-(Acestream)</title>
-<link>'plugin://program.plexus/?mode=1&url=acestream://8ca1bd6725fb4de7db9f289b2f7e4f4fb9e11f01%s&name=%s</link>
+<link>'plugin://program.plexus/?mode=1&url=acestream://ebace2db83260b4d6097f0a52e86b2aee3c3bba9%s&name=%s</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-2.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
 
 <item>
 <title>KodiTVR-(Acestream)</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://62a2d20679911f8e7739354761bc18f14a46a64f&amp;mode=1&amp;name=AceStream</link>
+<link>plugin://program.plexus/?mode=1&url=acestream://ebace2db83260b4d6097f0a52e86b2aee3c3bba9&amp;mode=1&amp;name=AceStream</link>
 <thumbnail>https://ia601504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-5.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
