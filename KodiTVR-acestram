@@ -21,7 +21,7 @@
 
 <item>
 <title>KodiTVR-(Acestream)</title>
-<link>http://127.0.0.1:8902/ace/getstream?id=ebace2db83260b4d6097f0a52e86b2aee3c3bba9</link>
+<link>http://127.0.0.1:8902/ace/getstream?id=ebace2db83260b4d6097f0a52e86b2aee3c3bba9&amp;mode=1&amp;name=AceStream</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-2.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-4.jpg</fanart>
 </item>
@@ -42,7 +42,7 @@
 
 <item>
 <title>KodiTVR-(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=8ca1bd6725fb4de7db9f289b2f7e4f4fb9e11f01</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=8ca1bd6725fb4de7db9f289b2f7e4f4fb9e11f01&amp;mode=1&amp;name=AceStream</link>
 <thumbnail>https://ia601504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-5.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
