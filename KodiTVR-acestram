@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR FFff8000]KodiTVR-LISTA-ACESTREAM[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://ebace2db83260b4d6097f0a52e86b2aee3c3bba9&mode=1&name=AceStream</link>
+<link>plugin://program.plexus/?url=acestream://ebace2db83260b4d6097f0a52e86b2aee3c3bba9&amp;mode=1&name=AceStream</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-1.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-4.jpg</fanart>
 </item>
