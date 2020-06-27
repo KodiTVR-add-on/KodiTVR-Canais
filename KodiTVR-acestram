@@ -1,47 +1,47 @@
 <item>
-<title>[COLOR FFff8000]KodiTVR-LISTA-ACESTREAM[/COLOR]</title>
+<title>[COLOR FFff8000]KodiTVR-Canais-LISTA-ACESTREAM[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://ebace2db83260b4d6097f0a52e86b2aee3c3bba9&amp;mode=1&name=AceStream</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-1.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-4.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue]KodiTVR-(Acestream-engine)[/COLOR]</title>
+<title>[COLOR blue]KodiTVR-Canais-(Acestream-engine)[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://ebace2db83260b4d6097f0a52e86b2aee3c3bba9&amp;mode=1&amp;name=AceStream</link>
 <thumbnail>https://ia601504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-3.jpg</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>plugin://program.plexus/?url=acestream://ebace2db83260b4d6097f0a52e86b2aee3c3bba9&amp;mode=1&amp;name=AceStream</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-2.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-4.jpg</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:8902/ace/getstream?id=ebace2db83260b4d6097f0a52e86b2aee3c3bba9&amp;mode=1&amp;name=AceStream</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-2.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-4.jpg</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>'plugin://program.plexus/?mode=1&url=acestream://ebace2db83260b4d6097f0a52e86b2aee3c3bba9%s&name=%s</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-2.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>plugin://program.plexus/?mode=1&url=acestream://ebace2db83260b4d6097f0a52e86b2aee3c3bba9&amp;mode=1&amp;name=AceStream</link>
 <thumbnail>https://ia601504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-5.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=8ca1bd6725fb4de7db9f289b2f7e4f4fb9e11f01&amp;mode=1&amp;name=AceStream</link>
 <thumbnail>https://ia601504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-5.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
@@ -49,98 +49,98 @@
 
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=5583e0b72dfdbdf4d758173896c371aa71693230</link>
 <thumbnail>https://ia601504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-5.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=40209e26a80c381bbcdcfe71712d31a31d9b0061</link>
 <thumbnail>https://ia601504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-5.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=5c9b5db90ef00d636a28a53c3581af2ea8b2cfab</link>
 <thumbnail>https://ia601504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-5.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=725d732e9997a45bf04eb85ba03fbfde9e4cd34d</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-1.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=06c01628d371f9b5bebcb50d7c493cda2203e268</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-2.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=c142bf83a5fb56ed23176b0460987d31705315d9</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=e42976fa49ceb36c3b8cf16a84542b63d2b8b936</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-5.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=895d6a92042671cc483346dfdd3917bef2458da9</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=895d6a92042671cc483346dfdd3917bef2458da9</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=895d6a92042671cc483346dfdd3917bef2458da9</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=bb814213a7aa8b4de31195daade2dd22258c637d</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=3301c21ee4802d8be5c0ae73f858b28988e1ae86</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=ca2bf89ebd1fbd02e8ec4582310bbcaeaa71dc15</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=34b1402557fb7faab2979361c4e9650fa0948724</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-6.png</fanart>
@@ -148,49 +148,49 @@
 
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=cb5df1d65e01c6211380040ce6d844b120f1a0c3</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-4.jpg</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=d010b0fc27a7d136e3fccf7fdf47ee8c853cf13c</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-4.jpg</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=a88f6617aa9c2d706632c7f7832e341dab280a07</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-4.jpg</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=ebddf12767655e5d9a859bcfe3d7d78e91f72f10</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-4.jpg</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=5d1cd83572135124cbcb324a449e1dabc21125b8</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-3.jpg</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=67205d7dae8ed607a1282c1081175afbfb8d2dc8</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-3.jpg</fanart>
 </item>
 
 <item>
-<title>KodiTVR-(Acestream)</title>
+<title>KodiTVR-Canais-(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=17fbffbd3c26f5d0320d841bf6ca44d49e8db760</link>
 <thumbnail>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-0.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/22/items/KodiTVR-iptv/KodiTVR-AceStream-3.jpg</fanart>
