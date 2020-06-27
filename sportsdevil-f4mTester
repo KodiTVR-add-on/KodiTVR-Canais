@@ -48,8 +48,6 @@
 </item>
 
 
-
-
 <item>
 <title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR white][B][I] SPORT TV1 HD/SD  [/I][/B][/COLOR] [COLOR green] [ KodiTVR-Canais ][/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1969.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV1 KodiTVR</link> 
@@ -57,7 +55,6 @@
 <link>http://87.118.138.144:8031/play/a03e</link>
 <thumbnail></thumbnail>
 </item>
-
 
 
 <item>
@@ -101,7 +98,6 @@
 <item>
 
 
-
 <item>
 <title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR white][B][I] SPORTING TV HD/SD [/I][/B][/COLOR] [COLOR green](KodiTVR-Canais)[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1280.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV KodiTVR</link> 
@@ -120,7 +116,7 @@
 
 
 <item>
-<title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR green][B]•••CANAIS SPORTSDEVIL•••[/B][/COLOR]</title>
+<title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR green][B]•••SPORTSDEVIL•••[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -140,8 +136,6 @@
 <fanart></fanart>
 </item>
 
- 
- 
  
 <item>
 <title>[COLOR blue]S[/COLOR]PORT TV 2</title>
@@ -173,7 +167,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
 
 
 <item>
@@ -208,15 +201,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
-
-
-
-
-
-
-
-
 
 
 <item>
@@ -268,9 +252,6 @@
 <referer>http://www.sporttvonlinehd.com</referer>
 <thumbnail></thumbnail>
 </item>
-
-
-
 
 
 <item>
