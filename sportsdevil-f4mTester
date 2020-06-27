@@ -222,7 +222,6 @@
 <item>
 <title>[B][COLOR white] SPORT TV 1[/B][/COLOR]</title>
 <link>http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8</link>
-
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonlinehd.net/index.php?canal=sporttv$$lsname=SPORT TV 1 BY KodiTVR</link>
 <thumbnail></thumbnail>
 </item>
@@ -230,7 +229,6 @@
 <item> 
 <title>[B][COLOR white] SPORT TV 1[/B][/COLOR]</title>
 <link>http://185.80.220.79:15214/streamM/0qZjb9kndn.stream/playlist.m3u8</link>
-
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv1hd-1.php</sportsdevil>
 <referer>http://hdfree.tv/</referer>
 <thumbnail></thumbnail>
@@ -238,9 +236,8 @@
 
 
 <item>
-<title>[COLOR white][B]SPORT TV 2 [/COLOR][/B]</title>
+<title>[B][COLOR white]SPORT TV 2 [/COLOR][/B]</title>
 <link>http://185.80.220.79:15214/streamM/0qZjb9kndn.stream/playlist.m3u8</link>
-
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv2hd-1.php</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail></thumbnail>
@@ -250,7 +247,6 @@
 <item>
 <title>[B][COLOR white] SPORT TV 3[/B][/COLOR]</title>
 <link>http://185.80.220.79:15214/streamM/0a6vDa0OYU.stream/playlist.m3u8</link>
-
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv3hd-1.php</sportsdevil>
 <referer>http://www.sporttvonlinehd.com</referer>
 <thumbnail></thumbnail>
@@ -259,7 +255,6 @@
 <item>
 <title>[B][COLOR white] SPORT TV 4[/B][/COLOR]</title>
 <link>http://185.80.220.79:15214/streamM/0tkVGgd2jl.stream/playlist.m3u8</link>
-
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv4hd-2.php</sportsdevil>
 <referer>http://www.sporttvonlinehd.com</referer>
 <thumbnail></thumbnail>
@@ -269,7 +264,6 @@
 <item>
 <title>[B][COLOR white] SPORT TV 5[/B][/COLOR]</title>
 <link>http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8</link>
-
 <sportsdevil>http://tmg.ustreamix.com/stats.php?p=94.62.132.0&C=PT&Ket=live</sportsdevil>
 <referer>http://www.sporttvonlinehd.com</referer>
 <thumbnail></thumbnail>
@@ -280,9 +274,8 @@
 
 
 <item>
-<title>[COLOR white][B] SPORTING TV [/COLOR]</title> 
+<title>[B][COLOR white] SPORTING TV [/B][/COLOR]</title> 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonlinehd.net/index.php?canal=sporttv$$lsname=SPORT TV 1 BY KodiTVR</link>
-
 <sportsdevil>http://www.sporttvhdgratis.com/index.php?canal=sportingtv</sportsdevil>
 <referer>http://ezcast.tv/</referer>
 <thumbnail></thumbnail>
