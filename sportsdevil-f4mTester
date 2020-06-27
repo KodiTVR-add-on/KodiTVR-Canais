@@ -43,7 +43,7 @@
 <item>
 <title>[COLOR red] KodiTVR-iptv[/COLOR][COLOR white][B][I] SPORT TV1 + [/I][/B][/COLOR] [COLOR green](KodiTVR-iptv)[/COLOR]</title>
 <link>http://87.118.138.144:8031/play/a04a</link> 
-<link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7050.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV1+ LOGAN</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7050.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV1+ KodiTVR</link> 
 <thumbnail>http://www.nos.pt/particulares/televisao/canais/PublishingImages/destaques-hp/sporttv+/medium_sporttv+.jpg</thumbnail>
 </item>
 
@@ -52,8 +52,8 @@
 
 <item>
 <title>[COLOR red] KodiTVR-iptv[/COLOR][COLOR white][B][I] SPORT TV1 HD/SD  [/I][/B][/COLOR] [COLOR green] [ KodiTVR-iptv ][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1969.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV1 LOGAN</link> 
-<link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV1 LOGAN</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1969.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV1 KodiTVR</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV1 KodiTVR</link> 
 <link>http://87.118.138.144:8031/play/a03e</link>
 <thumbnail></thumbnail>
 </item>
@@ -62,7 +62,7 @@
 
 <item>
 <title>[COLOR red] KodiTVR-iptv[/COLOR][COLOR white][B][I] SPORT TV2 HD/SD  [/I][/B][/COLOR] [COLOR green](KodiTVR-iptv)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV2 LOGAN</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV2 KodiTVR</link> 
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -70,7 +70,7 @@
 
 <item>
 <title>[COLOR red] KodiTVR-iptv[/COLOR][COLOR white][B][I] SPORT TV3 HD/SD  [/I][/B][/COLOR] [COLOR green](KodiTVR-iptv)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1273.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV3 LOGAN</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1273.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV3 KodiTVR</link> 
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -78,14 +78,14 @@
 
 <item>
 <title>[COLOR red] KodiTVR-iptv[/COLOR][COLOR white][B][I] SPORT TV4 HD/SD  [/I][/B][/COLOR] [COLOR green](KodiTVR-iptv)[/COLOR] </title>
-<link>>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1274.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV4 LOGAN</link> 
+<link>>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1274.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV4 KodiTVR</link> 
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR red] KodiTVR-iptv[/COLOR][COLOR white][B][I] SPORT TV5 HD/SD  [/I][/B][/COLOR] [COLOR green](KodiTVR-iptv)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1814.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV5 LOGAN</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1814.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV5 KodiTVR</link> 
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -93,9 +93,9 @@
 
 <item>
 <title>[COLOR red] KodiTVR-iptv[/COLOR][COLOR=white][B][I] BENFICA TV1 HD/SD [/I][/B][/COLOR][COLOR=green](KodiTVR-iptv)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 LOGAN</link> 
-<link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3944.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 LOGAN</link> 
-<linplugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/salvo/salvo/2766.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 LOGAN</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 KodiTVR</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3944.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 KodiTVR</link> 
+<linplugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/salvo/salvo/2766.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 KodiTVR</link> 
 <thumbnail>http://www.atelevisao.com/wp-content/uploads/2012/04/benfica-tv-logo.jpg</thumbnail>
 <fanart></fanart>
 <item>
@@ -104,7 +104,7 @@
 
 <item>
 <title>[COLOR red] KodiTVR-iptv[/COLOR][COLOR white][B][I] SPORTING TV HD/SD [/I][/B][/COLOR] [COLOR green](KodiTVR-iptv)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1280.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV LOGAN</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1280.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV KodiTVR</link> 
 <link>http://87.118.138.144:8031/play/a04f</link> 
 <thumbnail>https://www.supersporting.net/wp-content/uploads/2014/06/Sporting-TV1.jpg</thumbnail>
 <fanart></fanart>
@@ -223,7 +223,7 @@
 <title>[B][COLOR white] SPORT TV 1[/B][/COLOR]</title>
 <link>http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8</link>
 
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonlinehd.net/index.php?canal=sporttv$$lsname=SPORT TV 1 BY LOGAN</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonlinehd.net/index.php?canal=sporttv$$lsname=SPORT TV 1 BY KodiTVR</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -281,7 +281,7 @@
 
 <item>
 <title>[COLOR white][B] SPORTING TV [/COLOR]</title> 
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonlinehd.net/index.php?canal=sporttv$$lsname=SPORT TV 1 BY LOGAN</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonlinehd.net/index.php?canal=sporttv$$lsname=SPORT TV 1 BY KodiTVR</link>
 
 <sportsdevil>http://www.sporttvhdgratis.com/index.php?canal=sportingtv</sportsdevil>
 <referer>http://ezcast.tv/</referer>
