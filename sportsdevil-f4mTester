@@ -53,38 +53,38 @@
 <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1969.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV1 KodiTVR</link> 
 <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV1 KodiTVR</link> 
 <link>http://87.118.138.144:8031/play/a03e</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/ZhpZMUC.png</thumbnail>
 </item>
 
 
 <item>
 <title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR white][B][I] SPORT TV2 HD/SD  [/I][/B][/COLOR] [COLOR green](KodiTVR-Canais)[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV2 KodiTVR</link> 
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/VupAaV8.png</thumbnail>
+<fanart>https://i.imgur.com/VupAaV8.png</fanart>
 </item>
 
 
 <item>
 <title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR white][B][I] SPORT TV3 HD/SD  [/I][/B][/COLOR] [COLOR green](KodiTVR-Canais)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1273.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV3 KodiTVR</link> 
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/O3RJ6YU.png</thumbnail>
+<fanart>https://i.imgur.com/O3RJ6YU.png</fanart>
 </item>
 
 
 <item>
 <title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR white][B][I] SPORT TV4 HD/SD  [/I][/B][/COLOR] [COLOR green](KodiTVR-Canais)[/COLOR] </title>
 <link>>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1274.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV4 KodiTVR</link> 
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/cXo5359.png</thumbnail>
+<fanart>https://i.imgur.com/cXo5359.png</fanart>
 </item>
 
 <item>
 <title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR white][B][I] SPORT TV5 HD/SD  [/I][/B][/COLOR] [COLOR green](KodiTVR-Canais)[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1814.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV5 KodiTVR</link> 
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/v2mHw0o.png</thumbnail>
+<fanart>https://i.imgur.com/v2mHw0o.png</fanart>
 </item>
 
 
@@ -93,8 +93,8 @@
 <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 KodiTVR</link> 
 <link>plugin://plugin.video.f4mTester/?url=http://premium-Canais.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3944.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 KodiTVR</link> 
 <linplugin://plugin.video.f4mTester/?url=http://portal.genCanais.com:8080/live/salvo/salvo/2766.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 KodiTVR</link> 
-<thumbnail>http://www.atelevisao.com/wp-content/uploads/2012/04/benfica-tv-logo.jpg</thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/3NrBpTT.png</thumbnail>
+<fanart>https://i.imgur.com/3NrBpTT.png</fanart>
 <item>
 
 
@@ -102,8 +102,8 @@
 <title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR white][B][I] SPORTING TV HD/SD [/I][/B][/COLOR] [COLOR green](KodiTVR-Canais)[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1280.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV KodiTVR</link> 
 <link>http://87.118.138.144:8031/play/a04f</link> 
-<thumbnail>https://www.supersporting.net/wp-content/uploads/2014/06/Sporting-TV1.jpg</thumbnail>
-<fanart></fanart>
+<thumbnail>https://sportingtvonline.nos.pt/static/compiled/images/sportingtv.f6a35257.png</thumbnail>
+<fanart>https://sportingtvonline.nos.pt/static/compiled/images/sportingtv.f6a35257.png</fanart>
 </item>
 
 
@@ -198,8 +198,8 @@
 <page>http://www.mipsplayer.net/membedplayer/slbtvwww/1/555/442</page>
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 <referer>http://www.mips.tv</referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/3NrBpTT.png</thumbnail>
+<fanart>https://i.imgur.com/3NrBpTT.png</fanart>
 </item>
 
 
@@ -207,7 +207,7 @@
 <title>[B][COLOR white] SPORT TV 1[/B][/COLOR]</title>
 <link>http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonlinehd.net/index.php?canal=sporttv$$lsname=SPORT TV 1 BY KodiTVR</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/ZhpZMUC.png</thumbnail>
 </item>
 
 <item> 
@@ -215,7 +215,7 @@
 <link>http://185.80.220.79:15214/streamM/0qZjb9kndn.stream/playlist.m3u8</link>
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv1hd-1.php</sportsdevil>
 <referer>http://hdfree.tv/</referer>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/ZhpZMUC.png</thumbnail>
 </item>
 
 
@@ -224,7 +224,7 @@
 <link>http://185.80.220.79:15214/streamM/0qZjb9kndn.stream/playlist.m3u8</link>
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv2hd-1.php</sportsdevil>
 <referer>http://ucaster.eu/</referer>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/VupAaV8.png</thumbnail>
 </item>
 
  
@@ -233,7 +233,7 @@
 <link>http://185.80.220.79:15214/streamM/0a6vDa0OYU.stream/playlist.m3u8</link>
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv3hd-1.php</sportsdevil>
 <referer>http://www.sporttvonlinehd.com</referer>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/O3RJ6YU.png</thumbnail>
 </item>
  
 <item>
@@ -241,7 +241,7 @@
 <link>http://185.80.220.79:15214/streamM/0tkVGgd2jl.stream/playlist.m3u8</link>
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv4hd-2.php</sportsdevil>
 <referer>http://www.sporttvonlinehd.com</referer>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/cXo5359.png</thumbnail>
 </item>
  
  
@@ -250,7 +250,7 @@
 <link>http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8</link>
 <sportsdevil>http://tmg.ustreamix.com/stats.php?p=94.62.132.0&C=PT&Ket=live</sportsdevil>
 <referer>http://www.sporttvonlinehd.com</referer>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/v2mHw0o.png</thumbnail>
 </item>
 
 
@@ -259,6 +259,6 @@
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonlinehd.net/index.php?canal=sporttv$$lsname=SPORT TV 1 BY KodiTVR</link>
 <sportsdevil>http://www.sporttvhdgratis.com/index.php?canal=sportingtv</sportsdevil>
 <referer>http://ezcast.tv/</referer>
-<thumbnail></thumbnail>
+<thumbnail>https://sportingtvonline.nos.pt/static/compiled/images/sportingtv.f6a35257.png</thumbnail>
 </item>
 
