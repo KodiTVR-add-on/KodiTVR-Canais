@@ -92,7 +92,7 @@
 <title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR=white][B][I] BENFICA TV1 HD/SD [/I][/B][/COLOR][COLOR=green](KodiTVR-Canais)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 KodiTVR</link> 
 <link>plugin://plugin.video.f4mTester/?url=http://premium-Canais.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3944.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 KodiTVR</link> 
-<linplugin://plugin.video.f4mTester/?url=http://portal.genCanais.com:8080/live/salvo/salvo/2766.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 KodiTVR</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://portal.genCanais.com:8080/live/salvo/salvo/2766.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 KodiTVR</link> 
 <thumbnail>https://i.imgur.com/3NrBpTT.png</thumbnail>
 <fanart>https://i.imgur.com/3NrBpTT.png</fanart>
 <item>
@@ -132,8 +132,8 @@
 <page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page>
 <referer>></referer>
 <agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/ZhpZMUC.png</thumbnail>
+<fanart>https://i.imgur.com/ZhpZMUC.png</fanart>
 </item>
 
  
@@ -141,8 +141,8 @@
 <title>[COLOR blue]S[/COLOR]PORT TV 2</title>
 <sportsdevil>http://nowwatchtvlive.cc/sport-tv2-em-direto-gratis-sport-tv2-portugal-live-stream-online/</sportsdevil>
 <referer>></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/VupAaV8.png</thumbnail>
+<fanart>https://i.imgur.com/VupAaV8.png</fanart>
 </item>
  
 <item>
@@ -153,8 +153,8 @@
 <page>http://sharecast.eu/embed.php?ch=live2-bipmr</page>
 <referer></referer>
 <agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/VupAaV8.png</thumbnail>
+<fanart>https://i.imgur.com/VupAaV8.png</fanart>
 </item>
 
 
@@ -164,8 +164,8 @@
 <page>http://sharecast.eu/embed.php?ch=live3-qszlx</page>
 <referer>http://www.desportogratis.com/canal-sporttv3.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/O3RJ6YU.png</thumbnail>
+<fanart>https://i.imgur.com/O3RJ6YU.png</fanart>
 </item>
 
 
@@ -173,8 +173,8 @@
 <title>[COLOR blue]S[/COLOR]PORT TV 4</title>
 <sportsdevil>http://nowwatchtvlive.net/sport-tv4-em-direto-gratis-sport-tv-4-portugal-live-stream-online/</sportsdevil>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/cXo5359.png</thumbnail>
+<fanart>https://i.imgur.com/cXo5359.png</fanart>
 </item>
 
 
@@ -182,8 +182,8 @@
 <title>[COLOR blue]S[/COLOR]PORT TV 5</title>
 <sportsdevil> http://nowwatchtvlive.net/sport-tv5-em-direto-gratis-sport-tv-5-portugal-live-online/</sportsdevil>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/v2mHw0o.png </thumbnail>
+<fanart>https://i.imgur.com/v2mHw0o.png </fanart>
 </item>
 
  
