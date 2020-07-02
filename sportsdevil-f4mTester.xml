@@ -50,7 +50,7 @@
 
 <item>
 <title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR white][B][I] SPORT TV1 HD/SD  [/I][/B][/COLOR] [COLOR green] [ KodiTVR-Canais ][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://csvus.com:80/live/Garcia/123456/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV1 KodiTVR</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://csvus.com:80/live/Garcia/123456/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV1 KodiTVR</link> 
 <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV1 KodiTVR</link> 
 <link>http://87.118.138.144:8031/play/a03e</link>
 <thumbnail>https://i.imgur.com/ZhpZMUC.png</thumbnail>
