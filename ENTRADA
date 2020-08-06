@@ -27,8 +27,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Canais[/B][/COLOR]</name>
-<thumbnail>https://imgur.com/NxS02MC</thumbnail>
-<fanart>https://imgur.com/N5IsME2</fanart>
+<thumbnail>https://imgur.com/NxS02MC.png</thumbnail>
+<fanart>https://imgur.com/N5IsME2.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/koditvr-Canais.M3U</externallink>
 </channel>
@@ -38,8 +38,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Portugal-1[/B][/COLOR]</name>
-<thumbnail>https://imgur.com/7lVgVMR</thumbnail>
-<fanart>https://imgur.com/R1Mh5dE</fanart>
+<thumbnail>https://imgur.com/7lVgVMR.png</thumbnail>
+<fanart>https://imgur.com/R1Mh5dE.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/portugallist-1</externallink>
 </channel>
@@ -56,8 +56,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Portugal-2[/B][/COLOR]</name>
-<thumbnail>https://imgur.com/7EtB372</thumbnail>
-<fanart>https://imgur.com/PEMi4oC</fanart>
+<thumbnail>https://imgur.com/7EtB372.png</thumbnail>
+<fanart>https://imgur.com/PEMi4oC.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/portugallist-2</externallink>
 </channel>
@@ -67,8 +67,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Desporto [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/mXSuwhu</thumbnail>
-<fanart>https://imgur.com/TcBBcAS</fanart>
+<thumbnail>https://imgur.com/mXSuwhu.png</thumbnail>
+<fanart>https://imgur.com/TcBBcAS.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/koditvr%20sport.ts</externallink>  
 </channel>
@@ -78,8 +78,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]AceStream [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/DVZwB33</thumbnail>
-<fanart>https://imgur.com/AKqZUH5</fanart>
+<thumbnail>https://imgur.com/DVZwB33.png</thumbnail>
+<fanart>https://imgur.com/AKqZUH5.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/KodiTVR-acestram</externallink>  
 </channel>
@@ -89,8 +89,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]SportsDevil/F4mTester [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/GsgsBhT</thumbnail>
-<fanart>https://imgur.com/PJu7uQV</fanart>
+<thumbnail>https://imgur.com/GsgsBhT.png</thumbnail>
+<fanart>https://imgur.com/PJu7uQV.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/sportsdevil-f4mTester.xml</externallink>  
 </channel>
@@ -100,8 +100,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Rádio [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/cOzcacQ</thumbnail>
-<fanart>https://imgur.com/linlaWQ</fanart>
+<thumbnail>https://imgur.com/cOzcacQ.png</thumbnail>
+<fanart>https://imgur.com/linlaWQ.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/K.r%C3%A1dio.M3U</externallink>
 </channel>
@@ -110,8 +110,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Filmes-Gdrive [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/rauYQKA</thumbnail>
-<fanart>https://imgur.com/yZsiVDS</fanart>
+<thumbnail>https://imgur.com/rauYQKA.png</thumbnail>
+<fanart>https://imgur.com/yZsiVDS.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/Filmes-Gdrive-v%C3%A1rios%20links</externallink>
 </channel>
@@ -123,8 +123,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Filmes-Torrent-M3U [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/zND3y2j</thumbnail>
-<fanart>https://imgur.com/KthTkM4</fanart>
+<thumbnail>https://imgur.com/zND3y2j.png</thumbnail>
+<fanart>https://imgur.com/KthTkM4.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/filmes%20torrent.m3u</externallink>
 </channel>
@@ -135,8 +135,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]SÉRIES [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/WrwZ75W</thumbnail>
-<fanart>https://imgur.com/cJvGGMB</fanart>
+<thumbnail>https://imgur.com/WrwZ75W.png</thumbnail>
+<fanart>https://imgur.com/cJvGGMB.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/koditvr%20s%C3%A9ries</externallink>
 </channel>
@@ -148,8 +148,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Filmes-Faroeste [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/peE0icY</thumbnail>
-<fanart>https://imgur.com/NqP6GAT</fanart>
+<thumbnail>https://imgur.com/peE0icY.png</thumbnail>
+<fanart>https://imgur.com/NqP6GAT.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/Filmes%20faroeste%204</externallink>
 </channel> 
@@ -159,8 +159,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Filmes-Vários(2018) [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/qPQW6Gd</thumbnail>
-<fanart>https://imgur.com/nkUc14R</fanart>
+<thumbnail>https://imgur.com/qPQW6Gd.png</thumbnail>
+<fanart>https://imgur.com/nkUc14R.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/filmes%202018</externallink>
 </channel> 
@@ -170,8 +170,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Filmes-Vários(2017) [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/U834UOZ</thumbnail>
-<fanart>https://imgur.com/dQtG8lM</fanart>
+<thumbnail>https://imgur.com/U834UOZ.png</thumbnail>
+<fanart>https://imgur.com/dQtG8lM.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/Filmes%202017</externallink>
 </channel> 
@@ -181,8 +181,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR  blue][B] KodiTVR[/B][/COLOR][B][COLOR yellow]Filmes-Infantil [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/692iiKi</thumbnail>
-<fanart>https://imgur.com/b6McQ79</fanart>
+<thumbnail>https://imgur.com/692iiKi.png</thumbnail>
+<fanart>https://imgur.com/b6McQ79.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/KodiTVR-Canais/master/Filmes%20kids</externallink>
 </channel> 
