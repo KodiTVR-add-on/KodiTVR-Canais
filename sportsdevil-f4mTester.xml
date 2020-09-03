@@ -18,9 +18,9 @@
 
 
 <item>       
-<title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR green][B][Os canais f4mTester/sportsdevil podem demorar a abrir]     [/B][/COLOR]</title>
+<title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR green][B][Os canais f4mTester/sportsdevil podem demorar a abrir]     [/B][/COLOR] </title>
 <link>http://Ignoreme</link>
-<title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR green][B][POR VEZES E PRECISO CLICAR VÁRIAS VEZES NO MESMO CANAL PARA ABRIR]            [/B][/COLOR]</title>
+<title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR green][B][POR VEZES E PRECISO CLICAR VÁRIAS VEZES NO MESMO CANAL PARA ABRIR]            [/B][/COLOR] </title>
 <externallink></externallink>
 <thumbnail>https://i.ytimg.com/vi/zsvl_MVuWeM/maxresdefault.jpg</thumbnail>
 <fanart></fanart>
@@ -29,7 +29,7 @@
 ===============================================================================================================================================================================================
 
 <item>       
-<title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR yellow][B]•••LISTA 1•••[/B][/COLOR] [COLOR green] (KodiTVR-Canais)[/COLOR]</title>
+<title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR yellow][B]•••LISTA 1•••[/B][/COLOR] [COLOR green] (KodiTVR-Canais)[/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink>http://csvus.com:80/live/Garcia/123456/101.ts</externallink>
 <thumbnail></thumbnail>
@@ -41,7 +41,7 @@
 
 
 <item>
-<title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR white][B][I] SPORT TV1 + [/I][/B][/COLOR] [COLOR green](KodiTVR-Canais)[/COLOR]</title>
+<title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR white][B][I] SPORT TV1 + [/I][/B][/COLOR] [COLOR green](KodiTVR-Canais)[/COLOR] </title>
 <link>http://87.118.138.144:8031/play/a04a</link> 
 <link>plugin://plugin.video.f4mTester/?url=http://premium-Canais.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7050.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV1+ KodiTVR</link> 
 <thumbnail>http://www.nos.pt/particulares/televisao/canais/PublishingImages/destaques-hp/sporttv+/medium_sporttv+.jpg</thumbnail>
@@ -66,7 +66,7 @@
 
 
 <item>
-<title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR white][B][I] SPORT TV3 HD/SD  [/I][/B][/COLOR] [COLOR green](KodiTVR-Canais)[/COLOR]</title>
+<title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR white][B][I] SPORT TV3 HD/SD  [/I][/B][/COLOR] [COLOR green](KodiTVR-Canais)[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1273.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV3 KodiTVR</link> 
 <thumbnail>https://i.imgur.com/O3RJ6YU.png</thumbnail>
 <fanart>https://i.imgur.com/O3RJ6YU.png</fanart>
@@ -89,7 +89,7 @@
 
 
 <item>
-<title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR=white][B][I] BENFICA TV1 HD/SD [/I][/B][/COLOR][COLOR=green](KodiTVR-Canais)[/COLOR]</title>
+<title>[COLOR red] KodiTVR-Canais[/COLOR][COLOR=white][B][I] BENFICA TV1 HD/SD [/I][/B][/COLOR][COLOR=green](KodiTVR-Canais)[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/quest/quest/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 KodiTVR</link> 
 <link>plugin://plugin.video.f4mTester/?url=http://premium-Canais.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3944.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 KodiTVR</link> 
 <link>plugin://plugin.video.f4mTester/?url=http://portal.genCanais.com:8080/live/salvo/salvo/2766.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 KodiTVR</link> 
@@ -180,7 +180,7 @@
 
 <item>
 <title>[COLOR blue]S[/COLOR]PORT TV 5</title>
-<sportsdevil> http://nowwatchtvlive.net/sport-tv5-em-direto-gratis-sport-tv-5-portugal-live-online/</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.net/sport-tv5-em-direto-gratis-sport-tv-5-portugal-live-online/</sportsdevil>
 <referer></referer>
 <thumbnail>https://i.imgur.com/v2mHw0o.png </thumbnail>
 <fanart>https://i.imgur.com/v2mHw0o.png </fanart>
